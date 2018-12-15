@@ -1,1 +1,1 @@
-# JS-coding-exercise-1
+# JS-coding-exercise-3
